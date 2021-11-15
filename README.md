@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### My name is Alexandra and here are some things about me: I'm an undergraduate student at Electrical and Computer Engineering @ National Technical University of Athens
+#### My name is Alexandra and here are some things about me: 
 
 - 🎓 I'm an undergraduate student at Electrical and Computer Engineering @ National Technical University of Athens
 - 🌱 I’m currently studying about Neural Networks, Artificial Intelligence, Social Networks Analysis, Advanced Database Systems, Information Systems, Information Theory and Cryptography
@@ -55,8 +55,3 @@
 ### Github statistics:
 
 [![akexandrakapa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrakapa&count_private=true&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### My most used languages:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrakapa)](https://github.com/anuraghazra/github-readme-stats)
