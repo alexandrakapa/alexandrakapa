@@ -26,4 +26,4 @@
 
 ### Github statistics:
 
-<img align="left" alt="alexandrakapa's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alexandrakapa&show_icons=true&hide_border=true" />
+[![akexandrakapa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrakapa&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
