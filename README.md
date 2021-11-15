@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## My name is Alexandra and here are some things about me: I'm an undergraduate student at Electrical and Computer Engineering @ National Technical University of Athens
+#### My name is Alexandra and here are some things about me: I'm an undergraduate student at Electrical and Computer Engineering @ National Technical University of Athens
 
 - 🎓 I'm an undergraduate student at Electrical and Computer Engineering @ National Technical University of Athens
 - 🌱 I’m currently studying about Neural Networks, Artificial Intelligence, Social Networks Analysis, Advanced Database Systems, Information Systems, Information Theory and Cryptography
@@ -10,7 +10,6 @@
 
 ✉️ [aleksandrakapa@hotmail.com](mailto:aleksandrakapa@hotmail.com)
 
-<br />
 
 ### Languages and Tools:
 
@@ -23,8 +22,8 @@
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
-<br />
-<br />
+### Github statistics:
+
+<img align="left" alt="alexandrakapa's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alexandrakapa&show_icons=true&hide_border=true" />
