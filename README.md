@@ -3,8 +3,8 @@
 #### My name is Alexandra and here are some things about me: 
 
 - 🎓 I'm an undergraduate student at Electrical and Computer Engineering @ National Technical University of Athens
-- 🌱 I’m currently studying about Neural Networks, Artificial Intelligence, Social Networks Analysis, Advanced Database Systems, Information Systems, Information Theory and Cryptography
-- 📚 Fields of interest : Software engineering, Human-Computer interaction, Artificial intelligence, Databases and data mining
+- 🌱 I’m currently working on my diploma thesis on Computer Vision
+- 📚 Fields of interest : Neural Networks, Software engineering, Human-Computer interaction, Artificial intelligence, Databases and data mining
 - ✉️ Contact me via [Email](mailto:aleksandrakapa@hotmail.com)
 
 
