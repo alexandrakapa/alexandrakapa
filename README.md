@@ -38,3 +38,5 @@
 ### Github statistics:
 
 [![akexandrakapa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrakapa&count_private=true&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrakapa&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
