@@ -3,9 +3,9 @@
 #### My name is Alexandra and here are some things about me: 
 
 - 🎓 I'm a graduate student at Electrical and Computer Engineering @ National Technical University of Athens
-- 🌱 I’m currently working at Accenture as a junior data engineer
+- 🌱 I’m currently working at Accenture as a Junior Data Engineer
 - 📚 Fields of interest : Data warehouse, Neural Networks, Software engineering, Human-Computer interaction, Artificial intelligence, Databases and data mining
-- ✉️ Contact me via [Email](mailto:aleksandrakapa@hotmail.com)
+- ✉️ Contact me via [Email](mailto:aleksandrakapa@gmail.com)
 
 
 ### Languages and Tools that I have used:
@@ -37,6 +37,4 @@
 
 ### Github statistics:
 
-[![akexandrakapa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrakapa&count_private=true&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrakapa&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrakapa&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
