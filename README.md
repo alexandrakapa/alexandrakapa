@@ -3,9 +3,9 @@
 #### My name is Alexandra and here are some things about me: 
 
 - 🎓 I'm a graduate student at Electrical and Computer Engineering @ National Technical University of Athens
-- 🌱 I’m currently working at Accenture as a Data Engineer
-- 📚 Fields of interest : Data warehouse, Neural Networks, Software engineering, Human-Computer interaction, Artificial intelligence, Databases and data mining
-- ✉️ Contact me via [Email](mailto:aleksandrakapa@gmail.com)
+- 🌱 I’m currently working at D ONE as a Data Engineer
+- 📚 Fields of interest : Data warehouse, Data Modeling, Neural Networks, Human-Computer interaction, Artificial intelligence, Databases and data mining
+- ✉️ Contact me via [Email](mailto:kaparou.alexandra@gmail.com)
 
 
 ### Languages and Tools that I have used:
